@@ -1,2 +1,6 @@
 # Feature-selection-algorithms-for-corticomuscular-coherence-based-Brain-Computer-Interfaces
 Master's thesis
+
+The application field of this work is neuroengineering, in particular Brain-Computer Interface (BCI) used to assist the rehabilitation process of post-stroke patients. The focus of the research is on automated feature selection step, a key component necessary to improve this technology. The aim is to expand its use in other contexts where the expertise on BCI, and the knowledge of the neurophysiological principles that guide the feature selection, are limited. Moreover, automated feature selection process allows to improve the choice by also considering the classification performance at the end of the pipeline. After the literature review about the feature selection algorithms used by the research community in this field, several existing methods and a novel one were compared on a group of healthy subjects. The processed data was provided by IRCCS Santa Lucia Foundation, Rome, Italy. This text contains a chapter with the theoretical fundamentals necessary to make the content of this work accessible to researchers of artificial intelligence and data analysis fields without any background in neuroscience.
+
+More information in `report.pdf` and `presentation.pdf`.
